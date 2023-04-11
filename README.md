@@ -7,7 +7,7 @@
 Clone the repository on your local machine with the command below in your terminal, and cd into the **CoinMarks**
 
 ```bash
-https://github.com/
+https://github.com/chiragnagwani/CoinMarks
 
 cd CoinmMarks
 ```
@@ -25,7 +25,7 @@ npm start
 
 ## Live Link
 
-[CoinMarks]()
+[CoinMarks](https://coin-marks.vercel.app/)
 
 
 CoinMarks is a Crypto Currency Dashboard. 
